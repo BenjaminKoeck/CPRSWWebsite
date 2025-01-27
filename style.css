@@ -2,5 +2,8 @@ body {
     margin: 0;
     text-align: center;
     color: white;
+    height: 100vh;
     background-image: linear-gradient(#ff4500, #000000);
+    background-size: cover;
+    background-repeat: no-repeat;
 }
